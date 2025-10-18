@@ -1,0 +1,8 @@
+# Django + Djongo + DRF backend
+Django
+djangorestframework
+pytz
+django-cors-headers
+# Djongo and compatible pymongo
+djongo
+pymongo
